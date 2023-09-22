@@ -1,32 +1,32 @@
 [  
     {  
       "id": 1,  
-      "name": "Jack",  
-      "email": "jack@gmail.com",  
+      "name": "Ambrish S",  
+      "email": "jeevaambrish@gmail.com",  
       "gender": "male"  
     },  
     {  
       "id": 2,  
-      "name": "Peter",  
-      "email": "peter@gmail.com",  
+      "name": "Pradeep S",  
+      "email": "gspragathiswaran@gmail.com",  
       "gender": "male"  
     },  
     {  
       "id": 3,  
-      "name": "Mary",  
-      "email": "mary@gmail.com",  
+      "name": "Pradhish S",  
+      "email": "pradhishsekar1997@gmail.com ",  
       "gender": "female"  
     },  
     {  
       "id": 4,  
-      "name": "Smith",  
-      "email": "smith@gmail.com",  
+      "name": "Vishnu S",  
+      "email": "vishnudcrazie@gmail.com",  
       "gender": "male"  
     },  
     {  
       "id": 5,  
-      "name": "John",  
-      "email": "john@gmail.com",  
+      "name": "Vinith R",  
+      "email": "vinithravi261001@gmail.com",  
       "gender": "male"  
     }  
   ]  
